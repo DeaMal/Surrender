@@ -55,11 +55,11 @@ The user moves using the following keys:
 In dev mode, all enemy movements must be confirmed by pressing the key `8`
 
 You can customize the colors and appearance of the map by editing files:
-- for game mode
+- for dev mode
 
     Game\src\main\resources\application-dev.properties
 
-- for dev mode
+- for production mode
 
     Game\src\main\resources\application-production.properties
 
